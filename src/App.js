@@ -20,7 +20,9 @@ export default function App() {
   return (
     <div className="flex flex-col items-center bg-zinc-500 h-screen">
       <div>
-        <h1 className="text-indigo-200 text-4xl m-16 font-bold font-sans">Task Planner</h1>
+        <h1 className="text-indigo-200 text-4xl m-16 font-bold font-sans">
+          Task Planner
+        </h1>
       </div>
       <div className="p-5">
         <input
